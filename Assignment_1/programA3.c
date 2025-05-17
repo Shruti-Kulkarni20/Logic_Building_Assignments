@@ -18,7 +18,7 @@ void Display()
     while( i >= 1 )
     {
         printf("%d",i);
-        i++;
+        i--;
     }
 
 }
