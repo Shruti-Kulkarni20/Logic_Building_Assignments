@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // 
-// File name  : programA1.c
+// File name  : programA2.c
 // Description: program which accept number of rows and colums from user and display below pattern.
 // Input      : iRow = 4     iCol = 3
 // Output     : 1   2   3
