@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // 
-// File name  : programA1.c
+// File name  : programA4.c
 // Description: program which accept number from user and display below pattern.
 // Input      : 4
 // Output     : #  1  *  #  2 * # 3 * #  4  *
